@@ -52,4 +52,4 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/lxgw/LxgwNeoXiHei.svg)](https://starchart.cc/lxgw/LxgwNeoXiHei)
+[![Stargazers over time](https://starchart.cc/lxgw/LxgwNeoZhiSong.svg)](https://starchart.cc/lxgw/LxgwNeoZhiSong)
