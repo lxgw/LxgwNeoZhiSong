@@ -8,7 +8,7 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 本字体是[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)的姊妹字体，尝试在[「IPAmj明朝」](https://ipafont.ipa.go.jp)和[「一点明体」](https://github.com/ichitenfont/I.Ming)原有字形的基础上，将其改造成中国大陆规范字形。
 
 ## 两千字演示版
-目前本项目处于刚开坑的状态，现提供「霞鹜新致宋」演示版，包含汉字 2,000 个，用于体验字体显示效果。
+目前本项目处于刚开坑状态，现提供「霞鹜新致宋」演示版，包含汉字 2,000 个，用于体验字体显示效果。
 
 [点击此处下载](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2k.ttf)
 
