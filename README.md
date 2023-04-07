@@ -23,12 +23,13 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 - [IPAemj Mincho](https://ipafont.ipa.go.jp/) *by Information-technology Promotion Agency, Japan (IPA)*
 - [一点明体 / I.Ming](https://github.com/ichitenfont/I.Ming) *by 一点字坊 / Ichiten Font*
 
+<!--
 ## 相关资料
 - [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
 - [通用规范汉字笔顺规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/202103/t20210318_520473.html)
 - [GB/T 2312-1980 信息交换用汉字编码字符集 基本集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC)
 - [GB/T 12345-1990 信息交换用汉字编码字符集 辅助集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)
-
+-->
 ## 其它项目
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
