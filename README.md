@@ -10,8 +10,6 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 ## 两千字演示版
 目前本项目处于刚开坑的状态，现提供「霞鹜新致宋」演示版，包含汉字 2,000 个，用于体验字体显示效果。
 
-![image](https://user-images.githubusercontent.com/51902309/230642892-235eaea4-2a2a-46dc-be8d-e4a4ca788739.png)
-
 [点击此处下载](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2k.ttf)
 
 ## 授权信息
