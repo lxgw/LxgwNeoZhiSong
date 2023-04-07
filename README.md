@@ -31,6 +31,7 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 
 ## 其它项目
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
+- [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
