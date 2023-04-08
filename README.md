@@ -7,6 +7,16 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 
 本字体是[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)的姊妹字体，尝试在[「IPAmj明朝」](https://ipafont.ipa.go.jp)和[「一点明体」](https://github.com/ichitenfont/I.Ming)原有字形的基础上，将其改造成中国大陆规范字形。
 
+### 字汇
+#### 第一部分（简体为主）
+- [ ] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字；
+- [ ] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字；
+- [ ] [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字；
+- [ ] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字；
+- [ ] 此外按需添加一些表外字，共分为 5 组，详见[外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)。
+
+#### 第二部分（繁异体为主，视情况而定）
+
 ## 两千字演示版
 目前本项目处于刚开坑状态，现提供「霞鹜新致宋」演示版，包含汉字 2,000 个，用于预览字体显示效果。
 
