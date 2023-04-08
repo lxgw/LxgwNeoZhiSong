@@ -15,7 +15,8 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 - [ ] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字；
 - [ ] 此外按需添加一些表外字，共分为 5 组，详见[外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)。
 
-#### 第二部分（繁异体为主，视情况而定）
+#### 第二部分（繁异体为主）
+视情况而定。
 
 ## 两千字演示版
 目前本项目处于刚开坑状态，现提供「霞鹜新致宋」演示版，包含汉字 2,000 个，用于预览字体显示效果。
