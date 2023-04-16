@@ -26,7 +26,7 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 [点击此处下载](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2500.ttf)
 
 ### 历史版本
-- **04 月 08 日：** [2,000 字演示版](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2k.ttf)
+- **23/04/08：** [2,000 字演示版](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2k.ttf)
 
 ## 授权信息
 - 本字体在 IPA 所开发并发布的 [IPAmj明朝](https://moji.or.jp/ipafont) 基础上衍生，依照 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。使用本字体时，请遵从[「IPA开放字型授权条款 第1.0版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
