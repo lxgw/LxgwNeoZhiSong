@@ -20,10 +20,12 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 #### 第二部分（繁异体为主）
 视情况而定。
 
-## 两千字演示版
+## 两千五百字演示版
 目前本项目处于刚开坑状态，现提供「霞鹜新致宋」演示版，包含汉字 2,500 个，用于预览字体显示效果。
 
 [点击此处下载](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2500.ttf)
+
+> - **23/04/08:** [2,000 字演示版](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2k.ttf)
 
 ## 授权信息
 - 本字体在 IPA 所开发并发布的 [IPAmj明朝](https://moji.or.jp/ipafont) 基础上衍生，依照 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。使用本字体时，请遵从[「IPA开放字型授权条款 第1.0版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
