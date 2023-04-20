@@ -25,7 +25,7 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 
 [点击此处下载](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2751.ttf)
 
-> ### 历史版本
+> **历史版本**
 > - **23/04/17：** [2,608 字演示版](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2608.ttf)
 > - **23/04/16：** [2,500 字演示版](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2500.ttf)
 > - **23/04/08：** [2,000 字演示版](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2k.ttf)
