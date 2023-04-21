@@ -21,11 +21,12 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 视情况而定。
 
 ## 演示版
-目前本项目处于刚开坑状态，现提供「霞鹜新致宋」演示版，包含汉字 2,751 个，用于预览字体显示效果。
+目前本项目处于刚开坑状态，现提供「霞鹜新致宋」演示版，包含汉字 2,761 个，用于预览字体显示效果。
 
 [点击此处下载](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2751.ttf)
 
 > **历史版本**
+> - **23/04/20：** [2,751 字演示版](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2751.ttf)
 > - **23/04/17：** [2,608 字演示版](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2608.ttf)
 > - **23/04/16：** [2,500 字演示版](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2500.ttf)
 > - **23/04/08：** [2,000 字演示版](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2k.ttf)
