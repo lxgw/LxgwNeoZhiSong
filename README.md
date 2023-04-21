@@ -20,7 +20,7 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 #### 第二部分（繁异体为主）
 视情况而定。
 
-## 演示版
+## 少字演示版
 目前本项目处于刚开坑状态，现提供「霞鹜新致宋」演示版，包含汉字 2,761 个，用于预览字体显示效果。
 
 [点击此处下载](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo2751.ttf)
