@@ -21,7 +21,7 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 视情况而定。
 
 ## 3000 字演示版
-目前本项目处于刚开坑状态，现提供「霞鹜新致宋」演示版，包含汉字 3,000 个，字数较少，仅供预览字体显示效果。
+目前本字体正在制作中，现提供「霞鹜新致宋」演示版，包含汉字 3,000 个，字数较少，仅供预览字体显示效果。
 
 [点击此处下载](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo3k.ttf)
 
