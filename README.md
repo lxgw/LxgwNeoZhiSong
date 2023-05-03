@@ -44,7 +44,7 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 - [GB/T 12345-1990 信息交换用汉字编码字符集 辅助集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)
 -->
 ## 其它项目
-- [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
+- [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [传承字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
