@@ -32,6 +32,8 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-8.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-9.png)  
 
+> ㊟　字体概览图使用两种颜色，分别为[「淡米粉」](http://zhongguose.com/#danmifen)`#fbeee2` 和[「鹤灰」](http://zhongguose.com/#hehui)`#4a4035`，选取自[「中国传统色」](http://zhongguose.com/)。
+
 ## 测试版
 目前本字体正在完善中，现提供「霞鹜新致宋」常用字测试版，包含 GB/T 2312-1980 一级字、《通用规范汉字表》一级字、《现代汉语常用字表》3500 字，此外也包含少量《通用规范汉字表》二、三级字。
 
@@ -53,7 +55,7 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 - [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
 - [通用规范汉字笔顺规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/202103/t20210318_520473.html)
 - [GB/T 2312-1980 信息交换用汉字编码字符集 基本集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC)
-- [GB/T 12345-1990 信息交换用汉字编码字符集 辅助集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)
+<!-- - [GB/T 12345-1990 信息交换用汉字编码字符集 辅助集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B) -->
 
 ## 其它项目
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [传承字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
