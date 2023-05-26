@@ -9,7 +9,7 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 
 本字体是[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)的姊妹字体，尝试在[「IPAmj明朝」](https://ipafont.ipa.go.jp)和[「一点明体」](https://github.com/ichitenfont/I.Ming)原有字形的基础上，将其改造成中国大陆规范字形。
 
-### 字汇
+### 计划字汇
 #### 第一部分（简体为主）
 - [ ] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字；
 - [ ] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字；（短期计划目标）
@@ -20,10 +20,23 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 #### 第二部分（繁异体为主）
 视情况而定。
 
-## 3115 字演示版
-目前本字体正在制作中，现提供「霞鹜新致宋」演示版，包含汉字 3,115 个，字数较少，仅供预览字体显示效果。
+### 概览
 
-[点击此处下载](https://github.com/lxgw/LxgwNeoZhiSong/raw/main/TTF_Demo/LXGWNeoZhiSongDemo3115.ttf)
+![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-1.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-2.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-3.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-4.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-5.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-6.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-7.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-8.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-9.png)  
+
+## 测试版
+目前本字体正在完善中，现提供「霞鹜新致宋」常用字测试版，包含 GB/T 2312-1980 一级字、《通用规范汉字表》一级字、《现代汉语常用字表》3500 字，此外也包含少量《通用规范汉字表》二、三级字。
+
+1. 进入 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 页面下载。
+2. 进入猫啃网下载[「霞鹜新致宋」](https://www.maoken.com/freefonts/18476.html)，更新可能会晚一些。
 
 ## 授权信息
 - 本字体在 IPA 所开发并发布的 [IPAmj明朝](https://moji.or.jp/ipafont) 基础上衍生，依照 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。使用本字体时，请遵从[「IPA开放字型授权条款 第1.0版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
