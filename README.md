@@ -43,7 +43,7 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，调整后的字与原版可能略有违和感；此外由于时间仓促，并没有足够的时间细修，部分字的部件拼接会很生硬，但聊胜于无。如有字形优化、调整建议请在 [Issue #2](https://github.com/lxgw/LxgwNeoZhiSong/issues/2) 反馈，如有迫切的加字请求请在 [Issue #3](https://github.com/lxgw/LxgwNeoZhiSong/issues/3) 反馈，不要另开议题，以便于整理。
 2. 「新致宋」字体名称中的「新」字表示遵循 G 标的「新字形」，此外也是为了与「新晰黑」配套。如需传承字形版本，敬请参阅[「一点明体」](https://github.com/ichitenfont/I.Ming)、[「华英明朝」](https://github.com/GuiWonder/HuayingMincho) 等其他 IPAmjMincho 衍生字体专案。
-3. 由于本字体的原始授权字体 [IPAmjMincho](https://ipafont.ipa.go.jp/) 只有一个字重，且 IPAmjMincho 的原版字体 [TB Mincho](https://www.typebank.co.jp/fontfamily/tbmicho/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
+3. 由于本字体的原始授权字体 [IPAmjMincho](https://ipafont.ipa.go.jp/) 只有一个字重，且 IPAmjMincho 的原版字体 [TB Mincho](https://www.typebank.co.jp/fontfamily/tbmincho/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
 
 ## 授权信息
 - 本字体在 IPA 所开发并发布的 [IPAmj明朝](https://moji.or.jp/ipafont) 基础上衍生，依照 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。使用本字体时，请遵从[「IPA开放字型授权条款 第1.0版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
@@ -60,7 +60,10 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 - [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
 - [通用规范汉字笔顺规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/202103/t20210318_520473.html)
 - [GB/T 2312-1980 信息交换用汉字编码字符集 基本集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC)
-<!-- - [GB/T 12345-1990 信息交换用汉字编码字符集 辅助集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B) -->
+<!-- 
+- [GB/T 12345-1990 信息交换用汉字编码字符集 辅助集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)
+- [GB/T 8565.2-1988 信息处理 文本通信用编码字符集 第二部分:图形字符集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=87A92BDBEA7EBE5843EA16378837F981)
+-->
 
 ## 其它项目
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [传承字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
