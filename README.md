@@ -15,7 +15,7 @@ A Chinese serif font derived from IPAmj Mincho and Ichiten Ming.
 - [ ] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字；（短期计划目标）
 - [ ] [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字；
 - [ ] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字；（中期计划目标）
-- [ ] 此外按需添加一些表外字，共分为 5 组，详见[外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)。（视情况而定）
+- [ ] 此外按需添加一些表外字，共分为 5 组，详见[外字初步整理表](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)。（视情况而定）
 
 #### 第二部分（繁异体为主）
 视情况而定。
