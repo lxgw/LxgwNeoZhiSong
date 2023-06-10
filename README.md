@@ -35,7 +35,7 @@ A Chinese serif font derived from IPAmj Mincho.
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-9.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/heartserif.png)
 
-> ㊟　字体概览图使用两种颜色，分别为[「淡米粉」](http://zhongguose.com/#danmifen)`#fbeee2` 和[「鹤灰」](http://zhongguose.com/#hehui)`#4a4035`，选取自[「中国传统色」](http://zhongguose.com/)。
+> ㊟　新致宋概览图使用两种颜色，分别为[「淡米粉」](http://zhongguose.com/#danmifen)`#fbeee2` 和[「鹤灰」](http://zhongguose.com/#hehui)`#4a4035`；铭心宋概览图使用两种颜色，分别为[「淡藤萝紫」](http://zhongguose.com/#dantengluozi)`#f2e7e5` 和[「海报灰」](http://zhongguose.com/#haibaohui)`#483332`。选取自[「中国传统色」](http://zhongguose.com/)。
 
 ## 测试版
 目前本字体正在完善中，现提供「霞鹜新致宋」常用字测试版，包含 GB/T 2312-1980 一级字、《通用规范汉字表》一级字、《现代汉语常用字表》3500 字，此外也包含少量《通用规范汉字表》二、三级字。
