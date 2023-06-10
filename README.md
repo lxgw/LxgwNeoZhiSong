@@ -9,6 +9,8 @@ A Chinese serif font derived from IPAmj Mincho.
 
 本字体是[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)的姊妹字体，尝试在[「IPAmj明朝」](https://moji.or.jp/mojikiban/font/)原有字形的基础上，将其改造成中国大陆规范字形。
 
+另提供 **「霞鹜铭心宋」**，在[「こころ明朝体」](https://typingart.net/?p=46)的基础上修改制作，将新致宋字面横向压缩 85%，并增加圆角，更加清瘦、圆润。*（注：铭心宋的符号相比于新致宋会有所欠缺，敬请留意。）*
+
 ### 计划字汇
 #### 第一部分（简体为主）
 - [x] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字；
@@ -31,6 +33,7 @@ A Chinese serif font derived from IPAmj Mincho.
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-7.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-8.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-9.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/heartserif.png)
 
 > ㊟　字体概览图使用两种颜色，分别为[「淡米粉」](http://zhongguose.com/#danmifen)`#fbeee2` 和[「鹤灰」](http://zhongguose.com/#hehui)`#4a4035`，选取自[「中国传统色」](http://zhongguose.com/)。
 
