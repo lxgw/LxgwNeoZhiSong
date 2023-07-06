@@ -15,10 +15,10 @@ A Chinese serif font derived from IPAmj Mincho.
 ### 计划字汇
 #### 第一部分（简体为主）
 - [x] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字；
-- [ ] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字；（短期计划目标）
+- [x] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字；
 - [ ] [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字；
-- [ ] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字；（中期计划目标）
-- [ ] 此外按需添加一些表外字，共分为 5 组，详见[外字初步整理表](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)。（视情况而定）
+- [ ] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字；
+- [ ] 此外按需添加一些表外字，共分为 5 组，详见[外字初步整理表](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)。
 
 #### 第二部分（繁异体为主）
 视情况而定。
@@ -38,11 +38,10 @@ A Chinese serif font derived from IPAmj Mincho.
 
 > ㊟　新致宋概览图使用两种颜色，分别为[「淡米粉」](http://zhongguose.com/#danmifen)`#fbeee2` 和[「鹤灰」](http://zhongguose.com/#hehui)`#4a4035`；铭心宋概览图使用两种颜色，分别为[「淡藤萝紫」](http://zhongguose.com/#dantengluozi)`#f2e7e5` 和[「海报灰」](http://zhongguose.com/#haibaohui)`#483332`。选取自[「中国传统色」](http://zhongguose.com/)。
 
-## 测试版
-目前本字体正在完善中，现提供「霞鹜新致宋」常用字测试版，包含 GB/T 2312-1980 一级字、《通用规范汉字表》一级字、《现代汉语常用字表》3500 字，此外也包含少量《通用规范汉字表》二、三级字。
-
+## 如何下载
 1. 进入 [Releases](https://github.com/lxgw/LxgwNeoZhiSong/releases) 页面下载。
 2. 进入 **猫啃网** 下载[「霞鹜新致宋」](https://www.maoken.com/freefonts/18476.html)和[「霞鹜铭心宋」](https://www.maoken.com/freefonts/19277.html)。
+3. 进入 [永硕网盘](http://lxgw.ysepan.com) 下载「霞鹜新致宋」TTF 格式字体文件。
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，调整后的字与原版可能略有违和感；此外由于时间仓促，并没有足够的时间细修，部分字的部件拼接会很生硬，但聊胜于无。如有字形优化、调整建议请在 [Issue #2](https://github.com/lxgw/LxgwNeoZhiSong/issues/2) 反馈，如有迫切的加字请求请在 [Issue #3](https://github.com/lxgw/LxgwNeoZhiSong/issues/3) 反馈，不要另开议题，以便于整理。
