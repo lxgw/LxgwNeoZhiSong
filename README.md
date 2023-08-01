@@ -41,7 +41,8 @@ A Chinese serif font derived from IPAmj Mincho.
 ## 如何下载
 1. 进入 [Releases](https://github.com/lxgw/LxgwNeoZhiSong/releases) 页面下载。
 2. 进入 **猫啃网** 下载[「霞鹜新致宋」](https://www.maoken.com/freefonts/18476.html)和[「霞鹜铭心宋」](https://www.maoken.com/freefonts/19277.html)。
-3. 进入 [永硕网盘](http://lxgw.ysepan.com) 下载「霞鹜新致宋」TTF 格式字体文件。
+3. 进入 **字加** 获取[「霞鹜新致宋」](https://www.zijia.com.cn/6596.html)和[「霞鹜铭心宋」](https://www.zijia.com.cn/6597.html)。
+4. 进入 [永硕网盘](http://lxgw.ysepan.com) 下载「霞鹜新致宋」TTF 格式字体文件的 7-zip 格式压缩包。
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，调整后的字与原版可能略有违和感；此外由于时间仓促，并没有足够的时间细修，部分字的部件拼接会很生硬，但聊胜于无。如有字形优化、调整建议请在 [Issue #2](https://github.com/lxgw/LxgwNeoZhiSong/issues/2) 反馈，如有迫切的加字请求请在 [Issue #3](https://github.com/lxgw/LxgwNeoZhiSong/issues/3) 反馈，不要另开议题，以便于整理。
