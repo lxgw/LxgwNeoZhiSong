@@ -2,6 +2,7 @@
 A Chinese serif font derived from IPAmj Mincho.   
 一款衍生于「IPAmj明朝」的中文宋体字型。
 
+[![最新版](https://img.shields.io/github/release/lxgw/LxgwNeoZhiSong?style=flat-square)](https://github.com/lxgw/LxgwNeoZhiSong/releases/latest)
 [![猫啃网](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAfCAMAAABeSlSAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHyUExURQAAAAAA//8AAAAA//8AAAAA/wAA//8AAAAA//8AAAAA//8A//8AAAAA//8AAAAA//8AAAAA/wD///8AAAD/////AAD/////AP//AP//////AAD/////AAD/////AP///wD/////AP//AP//////AP//////AP///wD//////wD//wD/////////AP///wD//wD//wD/////AP///////////wD/////AP///wD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f////39/f39/f39/f39/f39/f7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v///y6UHskAAACldFJOUwADAwQEBQYGBwcICAkLCwwMDQ0NDhESEhMWFxgYGRkbHBwdHR8hIyQlJygpKSwsLS4yMjQ1Njc3ODk6PD5BQkNFRkdNUFFTVldaXF1fYGdqbnBxcnZ4eXt8gIGEhYaJio6RkpWXmJqbnJ2goqOlpqirrrCxs7S1trm7vr/BwsTHyMvMzc/Q0tPU2Nrb3N3f4uTm5+jp6+zt7vDx8vP19vf4+/z9/iyQxCoAAAAJcEhZcwAAFxEAABcRAcom8z8AAAHPSURBVDhPvZDpOxtRFIdvCJ1olaCLoqW1BF1U2tpJSlpFiK17NNE1DbGVoFVL20TRoMFUDDKS83+6Z+6tJjx9Hp+8X+b+fued88xcckLcmnl9nR8PkfVizoDPewHYcRYqVRQZr0TYfYinii0A2LReVOoDEiwrtN5txPNtMTj2B8BTH6OMGHc/A0huaduEoXg52FwwIEPY+7a1+opalV5uts/KEPp0s07aqkIj2wMv1XHmDbo0AqlTQ9rklRtoJI3DWLJ+MsxHf5mtFT7A98toCG/A9/jQBkR6/gNGzqJBLHu8O4pVrRgGiecjBJsUgeiWWPYNOtwBWk99dHlZs17KDO24Ep3nVHdMlV7ffaNRI/SEsPLkMENwYApUkUfb0K/XW0N7XTElv7GbSGZGghOTWBpno29dpT8PfWd0vxQjlRmJw8yItwPM52onAPq5MX3huIbw/n8GvzBC75+mzbJIo3iZVuFn7MIIKcIX5I7TEUZLkFb+ci6Q2G5cstrQC7CQf/4rgKtmEVfYNFwgJO0dXpAs0vbLKLXFHRrBfYmPkZQe3BpFyJXJhwxV/Tc+4fw0n+KjA+Ibhvx8CmvDjf8+IYprJsuTp+0P8ng8OQjZB5l3H1123DZyAAAAAElFTkSuQmCC)](https://www.maoken.com/freefonts/18476.html)
 
 ## 字体简介
@@ -14,13 +15,18 @@ A Chinese serif font derived from IPAmj Mincho.
 ### 计划字汇
 #### 第一部分（简体为主）
 - [x] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字；
-- [ ] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字；（短期计划目标）
-- [ ] [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字；
-- [ ] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字；（中期计划目标）
-- [ ] 此外按需添加一些表外字，共分为 5 组，详见[外字初步整理表](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)。（视情况而定）
+- [x] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字；
+- [x] [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字；
+- [x] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字；
+- [x] 此外按需添加一些表外字，共分为 5 组，详见[外字初步整理表](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)。
 
 #### 第二部分（繁异体为主）
-视情况而定。
+详见[外字初步整理表 第二部分（繁异体及其他外字）](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_2.md)
+- [x] 港台常用字（包括[台湾地区 4808 常用字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)、[香港地区常用字](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt)）；
+- [x] [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt) 汉字部分 6866 字、[BIG5 一级（常用）](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 字；
+- [x] 通用规范汉字表附表 1：「规范字与繁体字、异体字对照表」中的繁体字列；
+- [x] [外字初步整理表](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md) 所含字对应繁体字（主要采用 [BabelPad](https://www.babelstone.co.uk/Software/BabelPad.html) 转换，一少部分为后加，可能存在遗漏）；
+- [x] 补全 IICore 收录的 9810 个汉字。
 
 ### 概览
 
@@ -37,15 +43,15 @@ A Chinese serif font derived from IPAmj Mincho.
 
 > ㊟　新致宋概览图使用两种颜色，分别为[「淡米粉」](http://zhongguose.com/#danmifen)`#fbeee2` 和[「鹤灰」](http://zhongguose.com/#hehui)`#4a4035`；铭心宋概览图使用两种颜色，分别为[「淡藤萝紫」](http://zhongguose.com/#dantengluozi)`#f2e7e5` 和[「海报灰」](http://zhongguose.com/#haibaohui)`#483332`。选取自[「中国传统色」](http://zhongguose.com/)。
 
-## 测试版
-目前本字体正在完善中，现提供「霞鹜新致宋」常用字测试版，包含 GB/T 2312-1980 一级字、《通用规范汉字表》一级字、《现代汉语常用字表》3500 字，此外也包含少量《通用规范汉字表》二、三级字。
-
+## 如何下载
 1. 进入 [Releases](https://github.com/lxgw/LxgwNeoZhiSong/releases) 页面下载。
-2. 进入猫啃网下载[「霞鹜新致宋」](https://www.maoken.com/freefonts/18476.html)，更新可能会晚一些。
+2. 进入 **猫啃网** 下载[「霞鹜新致宋」](https://www.maoken.com/freefonts/18476.html)和[「霞鹜铭心宋」](https://www.maoken.com/freefonts/19277.html)。
+3. 进入 **字加** 获取[「霞鹜新致宋」](https://www.zijia.com.cn/6596.html)和[「霞鹜铭心宋」](https://www.zijia.com.cn/6597.html)。
+4. 进入 [永硕网盘](http://lxgw.ysepan.com)、[蓝奏云（密码 bb33）](https://lxgw.lanzoum.com/b0ctyhhwh)下载「霞鹜新致宋」TTF 格式字体文件的 7-zip 格式压缩包。
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，调整后的字与原版可能略有违和感；此外由于时间仓促，并没有足够的时间细修，部分字的部件拼接会很生硬，但聊胜于无。如有字形优化、调整建议请在 [Issue #2](https://github.com/lxgw/LxgwNeoZhiSong/issues/2) 反馈，如有迫切的加字请求请在 [Issue #3](https://github.com/lxgw/LxgwNeoZhiSong/issues/3) 反馈，不要另开议题，以便于整理。
-2. 「新致宋」字体名称中的「新」字表示遵循 G 标的「新字形」，此外也是为了与「新晰黑」配套。如需传承字形版本，敬请参阅[「一点明体」](https://github.com/ichitenfont/I.Ming)、[「华英明朝」](https://github.com/GuiWonder/HuayingMincho) 等其他 IPAmjMincho 衍生字体专案。
+2. 「新致宋」字体名称中的「新」字表示遵循 G 标的「新字形」，此外也是为了与「新晰黑」对应，遂取名「新致宋」。如需传承字形版本，敬请参阅[「一点明体」](https://github.com/ichitenfont/I.Ming)[「华英明朝」](https://github.com/GuiWonder/HuayingMincho) 等其他 IPAmjMincho 衍生字体专案。
 3. 由于本字体的原始授权字体 [IPAmjMincho](https://moji.or.jp/mojikiban/font/) 只有一个字重，且 IPAmjMincho 的原版字体 [TB Mincho](https://www.typebank.co.jp/fontfamily/tbmincho/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
 
 ## 授权信息
@@ -64,9 +70,9 @@ A Chinese serif font derived from IPAmj Mincho.
 - [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
 - [通用规范汉字笔顺规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/202103/t20210318_520473.html)
 - [GB/T 2312-1980 信息交换用汉字编码字符集 基本集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC)
+- [GB/T 8565.2-1988 信息处理 文本通信用编码字符集 第二部分:图形字符集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=87A92BDBEA7EBE5843EA16378837F981)
 <!-- 
 - [GB/T 12345-1990 信息交换用汉字编码字符集 辅助集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)
-- [GB/T 8565.2-1988 信息处理 文本通信用编码字符集 第二部分:图形字符集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=87A92BDBEA7EBE5843EA16378837F981)
 -->
 
 ## 其它项目
@@ -78,9 +84,9 @@ A Chinese serif font derived from IPAmj Mincho.
 
 ## 联系作者
 
-- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwandroidfont)
+- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwfont)
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
-- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少数派**](https://sspai.com/u/ng008g7q) | [**小红书**](https://www.xiaohongshu.com/user/profile/64770ed70000000012035f3b) | [**站酷**](https://www.zcool.com.cn/u/26715019)
+- **[即刻](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card)、[少数派](https://sspai.com/u/ng008g7q)、[小红书](https://www.xiaohongshu.com/user/profile/64770ed70000000012035f3b)、[站酷](https://www.zcool.com.cn/u/26715019)、[酷安](https://www.coolapk.com/u/633884)：** @落霞孤鹜lxgw
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **哔哩哔哩：** [@霞鹜lxgw](https://space.bilibili.com/3461565661579301)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
