@@ -1,4 +1,4 @@
-# LXGW Neo ZhiSong / 霞鹜新致宋
+# LXGW Neo ZhiSong / 霞鹜新致宋 / 霞鶩新緻宋
 A Chinese serif font derived from IPAmj Mincho.   
 一款衍生于「IPAmj明朝」的中文宋体字型。
 
