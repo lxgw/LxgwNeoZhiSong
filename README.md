@@ -12,21 +12,31 @@ A Chinese serif font derived from IPAmj Mincho.
 
 另提供 **「霞鹜铭心宋」**，在[「こころ明朝体」](https://typingart.net/?p=46)的基础上修改制作，将新致宋字面横向压缩 85%，并增加圆角，更加清瘦、圆润。*（注：铭心宋所收字符相比于新致宋会有所欠缺，敬请留意。）*
 
-### 计划字汇
+### 字汇
+
 #### 第一部分（简体为主）
+
 - [x] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字；
 - [x] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字；
 - [x] [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字；
 - [x] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字；
 - [x] 此外按需添加一些表外字，共分为 5 组，详见[外字初步整理表](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)。
 
+以上字汇共计 9 千余字，可基本满足简体中文使用需求。
+
 #### 第二部分（繁异体为主）
+
 详见[外字初步整理表 第二部分（繁异体及其他外字）](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_2.md)
+
 - [x] 港台常用字（包括[台湾地区 4808 常用字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)、[香港地区常用字](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt)）；
 - [x] [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt) 汉字部分 6866 字、[BIG5 一级（常用）](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 字；
 - [x] 通用规范汉字表附表 1：「规范字与繁体字、异体字对照表」中的繁体字列；
-- [x] [外字初步整理表](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md) 所含字对应繁体字（主要采用 [BabelPad](https://www.babelstone.co.uk/Software/BabelPad.html) 转换，一少部分为后加，可能存在遗漏）；
+- [x] [外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md) 所含字对应繁体字（主要采用 [BabelPad](https://www.babelstone.co.uk/Software/BabelPad.html) 转换，一少部分为后加，可能存在遗漏）；
 - [x] 补全 IICore 收录的 9810 个汉字。
+
+以上两部分字汇共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
+
+除此之外，包含了原始授权字体（IPAexGothic）所收基本区、扩展 A 区汉字以及兼容汉字区的非兼容汉字，并额外增加了基本区的部分其他汉字。目前本字体所支持的汉字约为 1.7 万字。
 
 ### 概览
 
