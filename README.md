@@ -63,6 +63,7 @@ A Chinese serif font derived from IPAmj Mincho.
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，调整后的字与原版可能略有违和感；此外由于时间仓促，并没有足够的时间细修，部分字的部件拼接会很生硬，但聊胜于无。如有字形优化、调整建议请在 [Issue #2](https://github.com/lxgw/LxgwNeoZhiSong/issues/2) 反馈，如有迫切的加字请求请在 [Issue #3](https://github.com/lxgw/LxgwNeoZhiSong/issues/3) 反馈，不要另开议题，以便于整理。
 2. 「新致宋」字体名称中的「新」字表示遵循 G 标的「新字形」，此外也是为了与「新晰黑」对应，遂取名「新致宋」。如需传承字形版本，敬请参阅[「一点明体」](https://github.com/ichitenfont/I.Ming)[「华英明朝」](https://github.com/GuiWonder/HuayingMincho) 等其他 IPAmjMincho 衍生字体专案。
 3. 由于本字体的原始授权字体 [IPAmjMincho](https://moji.or.jp/mojikiban/font/) 只有一个字重，且 IPAmjMincho 的原版字体 [TB Mincho](https://www.typebank.co.jp/fontfamily/tbmincho/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
+4. 提供[「霞鹜新致宋 融合 / LXGW Neo ZhiSong Fusion」](https://github.com/lxgw/LxgwNeoZhiSong-Fusion)，补全基本区和扩 A 区所有汉字，达到 GB 18030-2022 实现等级 2 的收字范围。由于字形差异外加 IPA 系字体与 GlyphWiki 系字体的风格差异，在混排中会存在一定的违和感。
 
 ## 授权信息
 - 本字体在 IPA 所开发并发布的 [IPAmj明朝](https://moji.or.jp/mojikiban/font/) 基础上衍生，依照 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。使用本字体时，请遵从[「IPA开放字型授权条款 第1.0版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
