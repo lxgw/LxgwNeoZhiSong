@@ -57,8 +57,8 @@ A Chinese serif font derived from IPAmj Mincho.
 
 ## 如何下载
 1. 进入 [Releases](https://github.com/lxgw/LxgwNeoZhiSong/releases) 页面下载。
-2. 进入 **猫啃网** 下载[「霞鹜新致宋」](https://www.maoken.com/freefonts/18476.html)和[「霞鹜铭心宋」](https://www.maoken.com/freefonts/19277.html)。
-3. 进入 **字加** 获取[「霞鹜新致宋」](https://www.zijia.com.cn/6596.html)和[「霞鹜铭心宋」](https://www.zijia.com.cn/6597.html)。
+2. 进入 [猫啃网](https://www.maoken.com/freefonts/18476.html) 下载。
+3. 进入 [字加](https://www.zijia.com.cn/6596.html) 获取。
 4. 进入 [永硕网盘](http://lxgw.ysepan.com)、[蓝奏云（密码 bb33）](https://lxgw.lanzoum.com/b0ctyhhwh)下载「霞鹜新致宋」TTF 格式字体文件的 7-zip 格式压缩包。
 
 ## 注意事项
