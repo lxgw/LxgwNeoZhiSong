@@ -11,7 +11,7 @@ A Chinese serif font derived from IPAmj Mincho.
 本字体是[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)的姊妹字体，尝试在[「IPAmj明朝」](https://moji.or.jp/mojikiban/font/)原有字形的基础上，将其改造成中国大陆规范字形。除此之外，重做了希腊字母和西里尔字母，与原字体拉丁字母部分风格基本一致，更适合现代希腊文及西里尔文的排版；新增对越南语拉丁字的显示支持。符号方面，支持易经八卦和六十四卦符号、太玄经八十一卦符号、麻将符号、中国象棋符号、算筹数字、「正」字计数等特殊符号。
 
 > [!NOTE]
-> 在发布补全 GBK 的版本之后，不再于 Release 中附带《霞鹜铭心宋》，请移步[《霞鹜铭心宋》repo](https://github.com/lxgw/LxgwHeartSerif) 了解字体概况及下载字体文件。
+> 在发布补全 GBK 的版本之后，将不再于 Release 中附带《霞鹜铭心宋》，请移步[《霞鹜铭心宋》repo](https://github.com/lxgw/LxgwHeartSerif) 了解字体概况及下载字体文件。
 
 ### 字汇
 
