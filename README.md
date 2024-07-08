@@ -10,8 +10,6 @@ A Chinese serif font derived from IPAmj Mincho.
 
 本字体是[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)的姊妹字体，尝试在[「IPAmj明朝」](https://moji.or.jp/mojikiban/font/)原有字形的基础上，将其改造成中国大陆规范字形。除此之外，重做了希腊字母和西里尔字母，与原字体拉丁字母部分风格基本一致，更适合现代希腊文及西里尔文的排版；新增对越南语拉丁字的显示支持。符号方面，支持易经八卦和六十四卦符号、太玄经八十一卦符号、麻将符号、中国象棋符号、算筹数字、「正」字计数等特殊符号。
 
-另提供 **「霞鹜铭心宋」**，在[「こころ明朝体」](https://typingart.net/?p=46)的基础上修改制作，将新致宋字面横向压缩 85%，并增加圆角，更加清瘦、圆润。*（注：铭心宋所收字符相比于新致宋会有所欠缺，敬请留意。）*
-
 > [!NOTE]
 > 在发布补全 GBK 的版本之后，将不再于 Release 中附带《霞鹜铭心宋》，请移步[《霞鹜铭心宋》repo](https://github.com/lxgw/LxgwHeartSerif) 了解字体概况及下载字体文件。
 
@@ -54,9 +52,8 @@ A Chinese serif font derived from IPAmj Mincho.
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-7.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-8.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-9.png)  
-![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/heartserif.png)
 
-> ㊟　新致宋概览图使用两种颜色，分别为[「淡米粉」](http://zhongguose.com/#danmifen)`#fbeee2` 和[「鹤灰」](http://zhongguose.com/#hehui)`#4a4035`；铭心宋概览图使用两种颜色，分别为[「淡藤萝紫」](http://zhongguose.com/#dantengluozi)`#f2e7e5` 和[「海报灰」](http://zhongguose.com/#haibaohui)`#483332`。选取自[「中国传统色」](http://zhongguose.com/)。
+> ㊟　新致宋概览图使用两种颜色，分别为[「淡米粉」](http://zhongguose.com/#danmifen)`#fbeee2` 和[「鹤灰」](http://zhongguose.com/#hehui)`#4a4035`。选取自[「中国传统色」](http://zhongguose.com/)。
 
 ## 如何下载
 1. 进入 [Releases](https://github.com/lxgw/LxgwNeoZhiSong/releases) 页面下载。
