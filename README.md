@@ -13,7 +13,7 @@ A Chinese serif font derived from IPAmj Mincho.
 另提供 **「霞鹜铭心宋」**，在[「こころ明朝体」](https://typingart.net/?p=46)的基础上修改制作，将新致宋字面横向压缩 85%，并增加圆角，更加清瘦、圆润。*（注：铭心宋所收字符相比于新致宋会有所欠缺，敬请留意。）*
 
 > [!NOTE]
-> 在发布补全 GBK 的版本之后，将不再于 Release 中附赠《霞鹜铭心宋》。
+> 在发布补全 GBK 的版本之后，将不再于 Release 中附带《霞鹜铭心宋》，请移步[《霞鹜铭心宋》repo](https://github.com/lxgw/LxgwHeartSerif) 了解字体概况及下载字体文件。
 
 ### 字汇
 
