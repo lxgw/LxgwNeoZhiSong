@@ -90,7 +90,6 @@ A Chinese serif font derived from IPAmj Mincho.
 - [GB/T 12345-1990 信息交换用汉字编码字符集 辅助集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)
 -->
 
-## 其它项目
 ## 更多「霞鹜」系列字体
 ### 「晰致尚铭」系列
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
