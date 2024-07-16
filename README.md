@@ -68,8 +68,8 @@ A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.
 4. 提供[「霞鹜新致宋 融合 / LXGW Neo ZhiSong Fusion」](https://github.com/lxgw/LxgwNeoZhiSong-Fusion)，补全基本区和扩 A 区所有汉字，达到 GB 18030-2022 实现等级 2 的收字范围。由于字形差异外加 IPA 系字体与 GlyphWiki 系字体的风格差异，在混排中会存在一定的违和感。
 
 ## 授权信息
-- 本字体在 IPA 所开发并发布的[「IPAex明朝」](https://moji.or.jp/ipafont)[「IPAmj明朝」](https://moji.or.jp/mojikiban/font/)基础上衍生，依照 [IPA 开放字体授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。  
-  使用本字体时，请遵从[「IPA 开放字体授权条款 第1.0版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
+- 本字体在 IPA 所开发并发布的[「IPAex明朝」](https://moji.or.jp/ipafont)[「IPAmj明朝」](https://moji.or.jp/mojikiban/font/)基础上衍生，依照 [IPA 开放字体授权条款 1.0 版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。  
+  使用本字体时，请遵从[「IPA 开放字体授权条款 1.0 版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
 - 您可以将本字体用于印刷品、数字文档、影视内容、海报广告、包装、出版物设计以及其他各种设计用途，包括商业和非商业用途；  
   也可在本字体基础上继续改作衍生，惟衍生字体名称（包括程序名、文件名、字体名）不得包含「IPA」字样，且衍生字体须继承相同授权许可（故 IPA 字体授权许可与 SIL OFL 不兼容）。
 - 根据 IPA Font License 1.0 有关条款，在没有邮费、存储媒介费用和手续费的情况下，须免费提供字体文件，不得将字体文件单独售卖。
