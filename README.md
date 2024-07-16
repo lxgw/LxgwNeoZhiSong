@@ -1,12 +1,12 @@
 # LXGW Neo ZhiSong / 霞鹜新致宋 / 霞鶩新緻宋
-A Chinese serif font derived from IPAmj Mincho.   
-一款衍生于「IPAmj明朝」的中文宋体字型。
+A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.   
+一款衍生于「IPAex明朝」「IPAmj明朝」的中文宋体字型。
 
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwNeoZhiSong?style=flat-square)](https://github.com/lxgw/LxgwNeoZhiSong/releases/latest)
 [![猫啃网](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAfCAMAAABeSlSAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHyUExURQAAAAAA//8AAAAA//8AAAAA/wAA//8AAAAA//8AAAAA//8A//8AAAAA//8AAAAA//8AAAAA/wD///8AAAD/////AAD/////AP//AP//////AAD/////AAD/////AP///wD/////AP//AP//////AP//////AP///wD//////wD//wD/////////AP///wD//wD//wD/////AP///////////wD/////AP///wD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f////39/f39/f39/f39/f39/f7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v///y6UHskAAACldFJOUwADAwQEBQYGBwcICAkLCwwMDQ0NDhESEhMWFxgYGRkbHBwdHR8hIyQlJygpKSwsLS4yMjQ1Njc3ODk6PD5BQkNFRkdNUFFTVldaXF1fYGdqbnBxcnZ4eXt8gIGEhYaJio6RkpWXmJqbnJ2goqOlpqirrrCxs7S1trm7vr/BwsTHyMvMzc/Q0tPU2Nrb3N3f4uTm5+jp6+zt7vDx8vP19vf4+/z9/iyQxCoAAAAJcEhZcwAAFxEAABcRAcom8z8AAAHPSURBVDhPvZDpOxtRFIdvCJ1olaCLoqW1BF1U2tpJSlpFiK17NNE1DbGVoFVL20TRoMFUDDKS83+6Z+6tJjx9Hp+8X+b+fued88xcckLcmnl9nR8PkfVizoDPewHYcRYqVRQZr0TYfYinii0A2LReVOoDEiwrtN5txPNtMTj2B8BTH6OMGHc/A0huaduEoXg52FwwIEPY+7a1+opalV5uts/KEPp0s07aqkIj2wMv1XHmDbo0AqlTQ9rklRtoJI3DWLJ+MsxHf5mtFT7A98toCG/A9/jQBkR6/gNGzqJBLHu8O4pVrRgGiecjBJsUgeiWWPYNOtwBWk99dHlZs17KDO24Ep3nVHdMlV7ffaNRI/SEsPLkMENwYApUkUfb0K/XW0N7XTElv7GbSGZGghOTWBpno29dpT8PfWd0vxQjlRmJw8yItwPM52onAPq5MX3huIbw/n8GvzBC75+mzbJIo3iZVuFn7MIIKcIX5I7TEUZLkFb+ci6Q2G5cstrQC7CQf/4rgKtmEVfYNFwgJO0dXpAs0vbLKLXFHRrBfYmPkZQe3BpFyJXJhwxV/Tc+4fw0n+KjA+Ibhvx8CmvDjf8+IYprJsuTp+0P8ng8OQjZB5l3H1123DZyAAAAAElFTkSuQmCC)](https://www.maoken.com/freefonts/18476.html)
 
 ## 字体简介
-这是一款基于 [IPAmj明朝](https://moji.or.jp/mojikiban/font/) 的中文开源字体，是将日本写法的字体改造成中国大陆规范写法的尝试。
+这是一款基于[「IPAex明朝」](https://moji.or.jp/ipafont)[「IPAmj明朝」](https://moji.or.jp/mojikiban/font/)的中文开源字体，是将日本写法的字体改造成中国大陆规范写法的尝试。
 
 本字体是[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)的姊妹字体，尝试在[「IPAmj明朝」](https://moji.or.jp/mojikiban/font/)原有字形的基础上，将其改造成中国大陆规范字形。除此之外，重做了希腊字母和西里尔字母，与原字体拉丁字母部分风格基本一致，更适合现代希腊文及西里尔文的排版；新增对越南语拉丁字的显示支持。符号方面，支持易经八卦和六十四卦符号、太玄经八十一卦符号、麻将符号、中国象棋符号、算筹数字、「正」字计数等特殊符号。
 
@@ -68,15 +68,20 @@ A Chinese serif font derived from IPAmj Mincho.
 4. 提供[「霞鹜新致宋 融合 / LXGW Neo ZhiSong Fusion」](https://github.com/lxgw/LxgwNeoZhiSong-Fusion)，补全基本区和扩 A 区所有汉字，达到 GB 18030-2022 实现等级 2 的收字范围。由于字形差异外加 IPA 系字体与 GlyphWiki 系字体的风格差异，在混排中会存在一定的违和感。
 
 ## 授权信息
-- 本字体在 IPA 所开发并发布的 [IPAmj明朝](https://moji.or.jp/mojikiban/font/) 基础上衍生，依照 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。使用本字体时，请遵从[「IPA开放字型授权条款 第1.0版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
-- 您可以将本字体用于数字文档、影视内容、出版物设计以及其他各种设计用途，包括商业和非商业用途；也可在本字体基础上继续改作衍生，惟衍生字体名称（包括程序名、文件名、字体名）不得包含「IPA」字样，且衍生字体须继承相同授权许可（故 IPA 字体授权许可与 SIL OFL 不兼容）。
+- 本字体在 IPA 所开发并发布的[「IPAex明朝」](https://moji.or.jp/ipafont)[「IPAmj明朝」](https://moji.or.jp/mojikiban/font/)基础上衍生，依照 [IPA 开放字体授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。  
+  使用本字体时，请遵从[「IPA 开放字体授权条款 第1.0版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
+- 您可以将本字体用于印刷品、数字文档、影视内容、海报广告、包装、出版物设计以及其他各种设计用途，包括商业和非商业用途；  
+  也可在本字体基础上继续改作衍生，惟衍生字体名称（包括程序名、文件名、字体名）不得包含「IPA」字样，且衍生字体须继承相同授权许可（故 IPA 字体授权许可与 SIL OFL 不兼容）。
 - 根据 IPA Font License 1.0 有关条款，在没有邮费、存储媒介费用和手续费的情况下，须免费提供字体文件，不得将字体文件单独售卖。
-- 如果您要将本字体替换回 IPA 原始授权字体，请从 [IPA 字体下载页面](https://moji.or.jp/ipafont/ipafontdownload)获取原始授权字体文件。对于涉及字体文件再分发的嵌入式应用（如应用程序、硬件设备、网页等嵌入），[请点击此处](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/embedding_instructions.md)（跳转到「霞鹜新晰黑」repo）。
+- 如果您要将本字体替换回 IPA 原始授权字体，请从 [IPA 字体下载页面](https://moji.or.jp/ipafont/ipafontdownload)获取原始授权字体「IPAex明朝」，或在[「IPAmj明朝」字体下载页面](https://moji.or.jp/ipafont/ipafontdownload)获取「IPAmj明朝」。  
+  对于涉及字体文件再分发的嵌入式应用（如应用程序、硬件设备、网页等嵌入），[请点击此处](documentation/embedding_instructions.md)。
 - 有关 IPA Font License 1.0 的其他常见问题，请参阅 [FAQ（日语）](https://moji.or.jp/ipafont/faq/)，需自备翻译工具。
-- 但凡有任何人使用、复制、修改、分发本字体，或对本字体进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。「IPA字体（IPA Font，IPAフォント）」为日本「独立行政法人情报处理推进机构」（简称「IPA」）的注册商标。
+- 但凡有任何人使用、复制、修改、分发本字体，或对本字体进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。  
+  「IPA 字体（IPA Font，IPAフォント）」为日本「独立行政法人　情报处理推进机构」（The Information-Technology Promotion Agency, “IPA”）的注册商标。
 
 ## 鸣谢
 - [TB Mincho](https://www.typebank.co.jp/fontfamily/tbmincho/) *by Takao Hayashi*
+- [IPAex Mincho](https://moji.or.jp/ipafont) *by Information-technology Promotion Agency, Japan (IPA)*
 - [IPAmj Mincho](https://moji.or.jp/mojikiban/font/) *by Information-technology Promotion Agency, Japan (IPA)*
 - [一点明体 / I.Ming](https://github.com/ichitenfont/I.Ming) *by 一点字坊 / Ichiten Font*
 - [DWPI Mincho](https://www.digitalwidearea.org/dwpi_mincho) *by Digital-Widearea*
