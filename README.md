@@ -15,6 +15,10 @@ A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.
 
 ### 字汇
 
+目前本字体共收录 2.2 万字，包含 CJK 统一表意文字基本区 20992 字，以及扩展 A～I 区零星汉字。
+
+包含 [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字，此外根据 [外字初步整理表](https://github.com/lxgw/ext-characters) 按需添加一些表外字。
+<!--
 #### 第一部分（简体为主）
 
 - [x] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字；
@@ -40,7 +44,7 @@ A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.
 除此之外，包含了原始授权字体 IPAexMincho 所收基本区、扩展 A 区汉字以及兼容汉字区的非兼容汉字，并额外增加了基本区的部分其他汉字。目前本字体所支持的汉字约为 1.7 万字。
 
 - [x] 终极目标：补全 CJK 统一表意文字基本区 20992 字，以及 GBK 所收录的其他字符。
-
+-->
 ### 概览
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-1.png)  
