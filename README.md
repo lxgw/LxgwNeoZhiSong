@@ -12,13 +12,13 @@ A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.
 
 「霞鹜新致宋」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于蝌蚪引号宽度的选择，[点击此处查看一览表](documentation/uvs.pdf)。
 
-此外提供「霞鹜新致宋＋ / LXGW Neo ZhiSong Plus」，在「霞鹜新致宋」基础上用「IPAmj明朝」和「一点明体」增补字形，并手动拼接前两款字体没有的字形，补全扩展 A 区所有汉字，以使字库达到 GB 18030-2022 实现级别 2 的收字范围。
-
 ### 字汇
 
 目前本字体共收录 2.2 万字，包含 CJK 统一表意文字基本区 20992 字，以及扩展 A～I 区零星汉字。
 
 包含 [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字，此外根据 [外字初步整理表](https://github.com/lxgw/ext-characters) 按需添加一些表外字。
+
+此外提供「霞鹜新致宋＋ / LXGW Neo ZhiSong Plus」，在「霞鹜新致宋」基础上用「IPAmj明朝」和「一点明体」增补字形，并手动拼接前两款字体没有的字形，补全扩展 A 区所有汉字，以使字库达到 GB 18030-2022 实现级别 2 的收字范围。
 <!--
 #### 第一部分（简体为主）
 
