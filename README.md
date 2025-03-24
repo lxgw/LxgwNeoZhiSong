@@ -70,9 +70,8 @@ A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，调整后的字与原版可能略有违和感；此外由于时间仓促，并没有足够的时间细修，部分字的部件拼接会很生硬，但聊胜于无。如有字形优化、调整建议请在 [Issue #2](https://github.com/lxgw/LxgwNeoZhiSong/issues/2) 反馈，如有迫切的加字请求请在 [Issue #3](https://github.com/lxgw/LxgwNeoZhiSong/issues/3) 反馈，不要另开议题，以便于整理。
 2. 由于新致宋的总体字形风格为 G 标，故繁体字也遵循 G 标（主要参考 Unicode 码表中的 G 源字形，无 G 源字形的根据相关部件类推出假想的 G 源字形，「霞鹜新致宋＋」中一些仅有 J 源字形的 JIS 字除外）。另有回归旧式印刷字形的[「霞鹜致宋」](https://github.com/lxgw/LxgwZhiSong)。
 3. 由于本字体的原始授权字体 [IPAmjMincho](https://moji.or.jp/mojikiban/font/) 只有一个字重，且 IPAmjMincho 的原版字体 [TB Mincho](https://www.typebank.co.jp/fontfamily/tbmincho/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
-4. 「霞鹜新致宋＋」的扩 A 部分仍有少量字符非 GB 标准，仍为「IPAmj明朝」原始字形。
-5. 提供[「霞鹜新致宋 屏幕阅读版 / LXGW Neo ZhiSong Screen」](https://github.com/lxgw/LxgwNeoXiZhi-Screen)，在原字体基础上细微加粗，并调整度量数据与 Roboto 相同，更适合 PC 及 Android 系统显示。
-6. 提供[「新致宋体 / SimZhiSong」](https://github.com/lxgw/SimXiZhi)，兼容 Windows 系统「宋体」度量参数，采用 GBK 字符集，可以让已经使用 Windows 系统「宋体」的文档可以直接套换「新致宋体」而不会出现大面积重新排版的现象。
+4. 提供[「霞鹜新致宋 屏幕阅读版 / LXGW Neo ZhiSong Screen」](https://github.com/lxgw/LxgwNeoXiZhi-Screen)，在原字体基础上细微加粗，并调整度量数据与 Roboto 相同，更适合 PC 及 Android 系统显示。
+5. 提供[「新致宋体 / SimZhiSong」](https://github.com/lxgw/SimXiZhi)，兼容 Windows 系统「宋体」度量参数，采用 GBK 字符集，可以让已经使用 Windows 系统「宋体」的文档可以直接套换「新致宋体」而不会出现大面积重新排版的现象。另提供「新致宋体＋」，采用 GB 18030-2022 实现级别 2 字符集，并保持对 GBK 的向下兼容。
 
 ## 授权信息
 - 本字体在 IPA 所开发并发布的[「IPAex明朝」](https://moji.or.jp/ipafont)[「IPAmj明朝」](https://moji.or.jp/mojikiban/font/)基础上衍生，依照 [IPA 开放字体授权条款 1.0 版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。  
