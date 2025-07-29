@@ -82,7 +82,7 @@ A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.
 - 如果您要将本字体替换回 IPA 原始授权字体，请从 [IPA 字体下载页面](https://moji.or.jp/ipafont/ipafontdownload)获取原始授权字体「IPAex明朝」，或从[「IPAmj明朝」字体下载页面](https://moji.or.jp/mojikiban/font/)获取「IPAmj明朝」。  
   对于涉及字体文件再分发的嵌入式应用（如应用程序、硬件设备、网页等嵌入），需要满足 IPA 许可中针对衍生字体再分发的限制条件，[请点击此处](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/embedding_instructions.md)了解（跳转到「霞鹜新晰黑」repo）。
 - 有关 IPA Font License 1.0 的其他常见问题，请参阅 [FAQ（日语）](https://moji.or.jp/ipafont/faq/)，需自备翻译工具。
-- 任何个人、企业、团队等对本字体进行使用、复制、修改、分发等任意用途即视为您已完全阅读、充分理解并同意 IPA Font License 1.1 授权协议。
+- 任何个人、企业、团队等对本字体进行使用、复制、修改、分发等任意用途即视为您已完全阅读、充分理解并同意 IPA Font License 1.1 授权协议。  
   「IPA 字体（IPA Font，IPAフォント）」为日本「独立行政法人　情报处理推进机构」（The Information-Technology Promotion Agency, “IPA”）的注册商标。
 
 ## 鸣谢
