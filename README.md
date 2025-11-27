@@ -57,6 +57,7 @@ A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-7.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-8.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-9.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-a.png)  
 
 > ㊟　新致宋概览图使用两种颜色，分别为[「淡米粉」](http://zhongguose.com/#danmifen)`#fbeee2` 和[「鹤灰」](http://zhongguose.com/#hehui)`#4a4035`。选取自[「中国传统色」](http://zhongguose.com/)。
 
