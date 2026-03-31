@@ -93,6 +93,12 @@ A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.
 - [一点明体 / I.Ming](https://github.com/ichitenfont/I.Ming) *by 一点字坊 / Ichiten Font*
 - [DWPI Mincho](https://www.digitalwidearea.org/dwpi_mincho) *by Digital-Widearea*
 
+<div  align="center">
+<a href="https://www.high-logic.com/font-editor/fontcreator">
+  <img src="https://raw.githubusercontent.com/lxgw/Pengli/main/documentation/FontCreator_Badge_01.png" width = "300" height = "92.39" alt="Made with FontCreator" align=center />
+</a>
+</div>
+
 ## 相关资料
 - [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
 - [通用规范汉字笔顺规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/202103/t20210318_520473.html)
@@ -117,6 +123,7 @@ A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.
 ### 其他
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)
+- [彭蠡文楷 / Pengli WenKai](https://github.com/lxgw/pengli)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 
