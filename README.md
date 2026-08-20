@@ -1,3 +1,15 @@
+> [!IMPORTANT]
+> **本项目现已进入稳定维护期。**
+>
+> 当前维护范围仅限于：
+> - 严重缺陷（如字形错乱、兼容性问题）的修复；
+> - 随 Unicode 新版发布而进行的必要字符增补；
+> - 品牌策略调整时的名称 / 元数据更新。
+>
+> 日常迭代已放缓，但**不代表项目终止**。新字符的增补和重大调整将依据 Unicode 标准演进及实际使用需求谨慎评估后进行，但**不承诺即时响应或采纳**。
+>
+> 本项目衍生自 IPA 字体，遵循 IPA Font License 1.0。若计划将本项目字体用于嵌入式用途，请务必仔细阅读 [IPA Font License 1.0](./LICENSE.md) 条款，并参考[「嵌入须知」](https://github.com/lxgw/lxgw/blob/main/documents/xizhi_embedding_instructions.md)自行评估合规成本。
+
 # LXGW Neo ZhiSong / 霞鹜新致宋 / 霞鶩新緻宋
 A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.   
 一款衍生于「IPAex明朝」「IPAmj明朝」的中文宋体字型。
