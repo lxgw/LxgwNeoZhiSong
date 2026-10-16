@@ -121,7 +121,7 @@ A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.
 - [GB/T 8565.2-1988 信息处理 文本通信用编码字符集 第二部分:图形字符集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=87A92BDBEA7EBE5843EA16378837F981)
 - [GB 18030-2022 信息技术 中文编码字符集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A1931A578FE14957104988029B0833D3)
 
-## 更多「霞鹜」系列字体
+## 更多「霞鹜」开源字体
 ### 「晰致尚铭」系列
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 - **霞鹜新致宋 / LXGW Neo ZhiSong**
