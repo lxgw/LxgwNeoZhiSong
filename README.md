@@ -153,6 +153,12 @@ A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.
 
 [点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
 
-## Stargazers over time
+## Star History
 
-[![Stargazers over time](https://starchart.cc/lxgw/LxgwNeoZhiSong.svg)](https://starchart.cc/lxgw/LxgwNeoZhiSong)
+<a href="https://www.star-history.com/?repos=lxgw%2Flxgwneozhisong&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lxgw/lxgwneozhisong&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lxgw/lxgwneozhisong&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lxgw/lxgwneozhisong&type=date&legend=top-left" />
+ </picture>
+</a>
