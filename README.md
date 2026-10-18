@@ -140,7 +140,6 @@ A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.
 ### 其他
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)
-- [彭蠡文楷 / Pengli WenKai](https://github.com/lxgw/pengli)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 
