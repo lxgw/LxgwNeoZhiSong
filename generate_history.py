@@ -41,7 +41,7 @@ for rel in releases:
         
         # --- 新增：处理“文件说明”引用块 ---
         # 如果遇到以 > 开头且包含“文件说明”的行，开启过滤
-        if stripped.startswith('>') and "文件说明" in stripped:
+        if stripped.startswith('>') and any(k in stripped for k in ["文件说明", "附赠"]):
             in_file_desc = True
             continue
             
