@@ -58,6 +58,10 @@ A Chinese serif font derived from IPAex Mincho and IPAmj Mincho.
 
 - [x] 终极目标：补全 CJK 统一表意文字基本区 20992 字，以及 GBK 所收录的其他字符。
 -->
+
+### 更新记录
+历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwNeoZhiSong/releases) 查看。文字版本的更新记录请在 [HISTORY.md](./HISTORY.md) 查看。
+
 ### 概览
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/main/documentation/images/neozhisong-1.png)  
